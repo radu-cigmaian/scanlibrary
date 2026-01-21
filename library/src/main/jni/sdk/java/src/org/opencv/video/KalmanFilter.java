@@ -1,4 +1,3 @@
-
 //
 // This file is auto-generated. Please don't modify it!
 //
@@ -7,84 +6,108 @@ package org.opencv.video;
 import org.opencv.core.Mat;
 
 // C++: class KalmanFilter
-//javadoc: KalmanFilter
+/**
+ * Kalman filter class.
+ *
+ * The class implements a standard Kalman filter &lt;http://en.wikipedia.org/wiki/Kalman_filter&gt;,
+ * CITE: Welch95 . However, you can modify transitionMatrix, controlMatrix, and measurementMatrix to get
+ * an extended Kalman filter functionality.
+ * <b>Note:</b> In C API when CvKalman\* kalmanFilter structure is not needed anymore, it should be released
+ * with cvReleaseKalman(&amp;kalmanFilter)
+ */
 public class KalmanFilter {
 
     protected final long nativeObj;
-    protected KalmanFilter(long addr) { nativeObj = addr; }
-
-
-    //
-    // C++:   KalmanFilter(int dynamParams, int measureParams, int controlParams = 0, int type = CV_32F)
-    //
-
-    //javadoc: KalmanFilter::KalmanFilter(dynamParams, measureParams, controlParams, type)
-    public   KalmanFilter(int dynamParams, int measureParams, int controlParams, int type)
-    {
-        
-        nativeObj = KalmanFilter_0(dynamParams, measureParams, controlParams, type);
-        
-        return;
+    protected KalmanFilter(long addr) {
+      nativeObj = addr;
+      
     }
 
-    //javadoc: KalmanFilter::KalmanFilter(dynamParams, measureParams)
-    public   KalmanFilter(int dynamParams, int measureParams)
-    {
-        
-        nativeObj = KalmanFilter_1(dynamParams, measureParams);
-        
-        return;
+    public long getNativeObjAddr() { return nativeObj; }
+
+    // internal usage only
+    public static KalmanFilter __fromPtr__(long addr) { return new KalmanFilter(addr); }
+
+    //
+    // C++:   cv::KalmanFilter::KalmanFilter()
+    //
+
+    public KalmanFilter() {
+        nativeObj = KalmanFilter_0();
     }
 
 
     //
-    // C++:   KalmanFilter()
+    // C++:   cv::KalmanFilter::KalmanFilter(int dynamParams, int measureParams, int controlParams = 0, int type = CV_32F)
     //
 
-    //javadoc: KalmanFilter::KalmanFilter()
-    public   KalmanFilter()
-    {
-        
-        nativeObj = KalmanFilter_2();
-        
-        return;
+    /**
+     *
+     *     @param dynamParams Dimensionality of the state.
+     *     @param measureParams Dimensionality of the measurement.
+     *     @param controlParams Dimensionality of the control vector.
+     *     @param type Type of the created matrices that should be CV_32F or CV_64F.
+     */
+    public KalmanFilter(int dynamParams, int measureParams, int controlParams, int type) {
+        nativeObj = KalmanFilter_1(dynamParams, measureParams, controlParams, type);
+    }
+
+    /**
+     *
+     *     @param dynamParams Dimensionality of the state.
+     *     @param measureParams Dimensionality of the measurement.
+     *     @param controlParams Dimensionality of the control vector.
+     */
+    public KalmanFilter(int dynamParams, int measureParams, int controlParams) {
+        nativeObj = KalmanFilter_2(dynamParams, measureParams, controlParams);
+    }
+
+    /**
+     *
+     *     @param dynamParams Dimensionality of the state.
+     *     @param measureParams Dimensionality of the measurement.
+     */
+    public KalmanFilter(int dynamParams, int measureParams) {
+        nativeObj = KalmanFilter_3(dynamParams, measureParams);
     }
 
 
     //
-    // C++:  Mat correct(Mat measurement)
+    // C++:  Mat cv::KalmanFilter::predict(Mat control = Mat())
     //
 
-    //javadoc: KalmanFilter::correct(measurement)
-    public  Mat correct(Mat measurement)
-    {
-        
-        Mat retVal = new Mat(correct_0(nativeObj, measurement.nativeObj));
-        
-        return retVal;
+    /**
+     * Computes a predicted state.
+     *
+     *     @param control The optional input control
+     * @return automatically generated
+     */
+    public Mat predict(Mat control) {
+        return new Mat(predict_0(nativeObj, control.nativeObj));
+    }
+
+    /**
+     * Computes a predicted state.
+     *
+     * @return automatically generated
+     */
+    public Mat predict() {
+        return new Mat(predict_1(nativeObj));
     }
 
 
     //
-    // C++:  Mat predict(Mat control = Mat())
+    // C++:  Mat cv::KalmanFilter::correct(Mat measurement)
     //
 
-    //javadoc: KalmanFilter::predict(control)
-    public  Mat predict(Mat control)
-    {
-        
-        Mat retVal = new Mat(predict_0(nativeObj, control.nativeObj));
-        
-        return retVal;
-    }
-
-    //javadoc: KalmanFilter::predict()
-    public  Mat predict()
-    {
-        
-        Mat retVal = new Mat(predict_1(nativeObj));
-        
-        return retVal;
+    /**
+     * Updates the predicted state from the measurement.
+     *
+     *     @param measurement The measured system parameters
+     * @return automatically generated
+     */
+    public Mat correct(Mat measurement) {
+        return new Mat(correct_0(nativeObj, measurement.nativeObj));
     }
 
 
@@ -92,13 +115,8 @@ public class KalmanFilter {
     // C++: Mat KalmanFilter::statePre
     //
 
-    //javadoc: KalmanFilter::get_statePre()
-    public  Mat get_statePre()
-    {
-        
-        Mat retVal = new Mat(get_statePre_0(nativeObj));
-        
-        return retVal;
+    public Mat get_statePre() {
+        return new Mat(get_statePre_0(nativeObj));
     }
 
 
@@ -106,13 +124,8 @@ public class KalmanFilter {
     // C++: void KalmanFilter::statePre
     //
 
-    //javadoc: KalmanFilter::set_statePre(statePre)
-    public  void set_statePre(Mat statePre)
-    {
-        
+    public void set_statePre(Mat statePre) {
         set_statePre_0(nativeObj, statePre.nativeObj);
-        
-        return;
     }
 
 
@@ -120,13 +133,8 @@ public class KalmanFilter {
     // C++: Mat KalmanFilter::statePost
     //
 
-    //javadoc: KalmanFilter::get_statePost()
-    public  Mat get_statePost()
-    {
-        
-        Mat retVal = new Mat(get_statePost_0(nativeObj));
-        
-        return retVal;
+    public Mat get_statePost() {
+        return new Mat(get_statePost_0(nativeObj));
     }
 
 
@@ -134,13 +142,8 @@ public class KalmanFilter {
     // C++: void KalmanFilter::statePost
     //
 
-    //javadoc: KalmanFilter::set_statePost(statePost)
-    public  void set_statePost(Mat statePost)
-    {
-        
+    public void set_statePost(Mat statePost) {
         set_statePost_0(nativeObj, statePost.nativeObj);
-        
-        return;
     }
 
 
@@ -148,13 +151,8 @@ public class KalmanFilter {
     // C++: Mat KalmanFilter::transitionMatrix
     //
 
-    //javadoc: KalmanFilter::get_transitionMatrix()
-    public  Mat get_transitionMatrix()
-    {
-        
-        Mat retVal = new Mat(get_transitionMatrix_0(nativeObj));
-        
-        return retVal;
+    public Mat get_transitionMatrix() {
+        return new Mat(get_transitionMatrix_0(nativeObj));
     }
 
 
@@ -162,13 +160,8 @@ public class KalmanFilter {
     // C++: void KalmanFilter::transitionMatrix
     //
 
-    //javadoc: KalmanFilter::set_transitionMatrix(transitionMatrix)
-    public  void set_transitionMatrix(Mat transitionMatrix)
-    {
-        
+    public void set_transitionMatrix(Mat transitionMatrix) {
         set_transitionMatrix_0(nativeObj, transitionMatrix.nativeObj);
-        
-        return;
     }
 
 
@@ -176,13 +169,8 @@ public class KalmanFilter {
     // C++: Mat KalmanFilter::controlMatrix
     //
 
-    //javadoc: KalmanFilter::get_controlMatrix()
-    public  Mat get_controlMatrix()
-    {
-        
-        Mat retVal = new Mat(get_controlMatrix_0(nativeObj));
-        
-        return retVal;
+    public Mat get_controlMatrix() {
+        return new Mat(get_controlMatrix_0(nativeObj));
     }
 
 
@@ -190,13 +178,8 @@ public class KalmanFilter {
     // C++: void KalmanFilter::controlMatrix
     //
 
-    //javadoc: KalmanFilter::set_controlMatrix(controlMatrix)
-    public  void set_controlMatrix(Mat controlMatrix)
-    {
-        
+    public void set_controlMatrix(Mat controlMatrix) {
         set_controlMatrix_0(nativeObj, controlMatrix.nativeObj);
-        
-        return;
     }
 
 
@@ -204,13 +187,8 @@ public class KalmanFilter {
     // C++: Mat KalmanFilter::measurementMatrix
     //
 
-    //javadoc: KalmanFilter::get_measurementMatrix()
-    public  Mat get_measurementMatrix()
-    {
-        
-        Mat retVal = new Mat(get_measurementMatrix_0(nativeObj));
-        
-        return retVal;
+    public Mat get_measurementMatrix() {
+        return new Mat(get_measurementMatrix_0(nativeObj));
     }
 
 
@@ -218,13 +196,8 @@ public class KalmanFilter {
     // C++: void KalmanFilter::measurementMatrix
     //
 
-    //javadoc: KalmanFilter::set_measurementMatrix(measurementMatrix)
-    public  void set_measurementMatrix(Mat measurementMatrix)
-    {
-        
+    public void set_measurementMatrix(Mat measurementMatrix) {
         set_measurementMatrix_0(nativeObj, measurementMatrix.nativeObj);
-        
-        return;
     }
 
 
@@ -232,13 +205,8 @@ public class KalmanFilter {
     // C++: Mat KalmanFilter::processNoiseCov
     //
 
-    //javadoc: KalmanFilter::get_processNoiseCov()
-    public  Mat get_processNoiseCov()
-    {
-        
-        Mat retVal = new Mat(get_processNoiseCov_0(nativeObj));
-        
-        return retVal;
+    public Mat get_processNoiseCov() {
+        return new Mat(get_processNoiseCov_0(nativeObj));
     }
 
 
@@ -246,13 +214,8 @@ public class KalmanFilter {
     // C++: void KalmanFilter::processNoiseCov
     //
 
-    //javadoc: KalmanFilter::set_processNoiseCov(processNoiseCov)
-    public  void set_processNoiseCov(Mat processNoiseCov)
-    {
-        
+    public void set_processNoiseCov(Mat processNoiseCov) {
         set_processNoiseCov_0(nativeObj, processNoiseCov.nativeObj);
-        
-        return;
     }
 
 
@@ -260,13 +223,8 @@ public class KalmanFilter {
     // C++: Mat KalmanFilter::measurementNoiseCov
     //
 
-    //javadoc: KalmanFilter::get_measurementNoiseCov()
-    public  Mat get_measurementNoiseCov()
-    {
-        
-        Mat retVal = new Mat(get_measurementNoiseCov_0(nativeObj));
-        
-        return retVal;
+    public Mat get_measurementNoiseCov() {
+        return new Mat(get_measurementNoiseCov_0(nativeObj));
     }
 
 
@@ -274,13 +232,8 @@ public class KalmanFilter {
     // C++: void KalmanFilter::measurementNoiseCov
     //
 
-    //javadoc: KalmanFilter::set_measurementNoiseCov(measurementNoiseCov)
-    public  void set_measurementNoiseCov(Mat measurementNoiseCov)
-    {
-        
+    public void set_measurementNoiseCov(Mat measurementNoiseCov) {
         set_measurementNoiseCov_0(nativeObj, measurementNoiseCov.nativeObj);
-        
-        return;
     }
 
 
@@ -288,13 +241,8 @@ public class KalmanFilter {
     // C++: Mat KalmanFilter::errorCovPre
     //
 
-    //javadoc: KalmanFilter::get_errorCovPre()
-    public  Mat get_errorCovPre()
-    {
-        
-        Mat retVal = new Mat(get_errorCovPre_0(nativeObj));
-        
-        return retVal;
+    public Mat get_errorCovPre() {
+        return new Mat(get_errorCovPre_0(nativeObj));
     }
 
 
@@ -302,13 +250,8 @@ public class KalmanFilter {
     // C++: void KalmanFilter::errorCovPre
     //
 
-    //javadoc: KalmanFilter::set_errorCovPre(errorCovPre)
-    public  void set_errorCovPre(Mat errorCovPre)
-    {
-        
+    public void set_errorCovPre(Mat errorCovPre) {
         set_errorCovPre_0(nativeObj, errorCovPre.nativeObj);
-        
-        return;
     }
 
 
@@ -316,13 +259,8 @@ public class KalmanFilter {
     // C++: Mat KalmanFilter::gain
     //
 
-    //javadoc: KalmanFilter::get_gain()
-    public  Mat get_gain()
-    {
-        
-        Mat retVal = new Mat(get_gain_0(nativeObj));
-        
-        return retVal;
+    public Mat get_gain() {
+        return new Mat(get_gain_0(nativeObj));
     }
 
 
@@ -330,13 +268,8 @@ public class KalmanFilter {
     // C++: void KalmanFilter::gain
     //
 
-    //javadoc: KalmanFilter::set_gain(gain)
-    public  void set_gain(Mat gain)
-    {
-        
+    public void set_gain(Mat gain) {
         set_gain_0(nativeObj, gain.nativeObj);
-        
-        return;
     }
 
 
@@ -344,13 +277,8 @@ public class KalmanFilter {
     // C++: Mat KalmanFilter::errorCovPost
     //
 
-    //javadoc: KalmanFilter::get_errorCovPost()
-    public  Mat get_errorCovPost()
-    {
-        
-        Mat retVal = new Mat(get_errorCovPost_0(nativeObj));
-        
-        return retVal;
+    public Mat get_errorCovPost() {
+        return new Mat(get_errorCovPost_0(nativeObj));
     }
 
 
@@ -358,13 +286,8 @@ public class KalmanFilter {
     // C++: void KalmanFilter::errorCovPost
     //
 
-    //javadoc: KalmanFilter::set_errorCovPost(errorCovPost)
-    public  void set_errorCovPost(Mat errorCovPost)
-    {
-        
+    public void set_errorCovPost(Mat errorCovPost) {
         set_errorCovPost_0(nativeObj, errorCovPost.nativeObj);
-        
-        return;
     }
 
 
@@ -375,19 +298,20 @@ public class KalmanFilter {
 
 
 
-    // C++:   KalmanFilter(int dynamParams, int measureParams, int controlParams = 0, int type = CV_32F)
-    private static native long KalmanFilter_0(int dynamParams, int measureParams, int controlParams, int type);
-    private static native long KalmanFilter_1(int dynamParams, int measureParams);
+    // C++:   cv::KalmanFilter::KalmanFilter()
+    private static native long KalmanFilter_0();
 
-    // C++:   KalmanFilter()
-    private static native long KalmanFilter_2();
+    // C++:   cv::KalmanFilter::KalmanFilter(int dynamParams, int measureParams, int controlParams = 0, int type = CV_32F)
+    private static native long KalmanFilter_1(int dynamParams, int measureParams, int controlParams, int type);
+    private static native long KalmanFilter_2(int dynamParams, int measureParams, int controlParams);
+    private static native long KalmanFilter_3(int dynamParams, int measureParams);
 
-    // C++:  Mat correct(Mat measurement)
-    private static native long correct_0(long nativeObj, long measurement_nativeObj);
-
-    // C++:  Mat predict(Mat control = Mat())
+    // C++:  Mat cv::KalmanFilter::predict(Mat control = Mat())
     private static native long predict_0(long nativeObj, long control_nativeObj);
     private static native long predict_1(long nativeObj);
+
+    // C++:  Mat cv::KalmanFilter::correct(Mat measurement)
+    private static native long correct_0(long nativeObj, long measurement_nativeObj);
 
     // C++: Mat KalmanFilter::statePre
     private static native long get_statePre_0(long nativeObj);
@@ -449,7 +373,7 @@ public class KalmanFilter {
     // C++: void KalmanFilter::errorCovPost
     private static native void set_errorCovPost_0(long nativeObj, long errorCovPost_nativeObj);
 
-    // native support for java finalize()
+    // native support for java finalize() or cleaner
     private static native void delete(long nativeObj);
 
 }

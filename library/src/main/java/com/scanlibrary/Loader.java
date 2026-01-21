@@ -12,7 +12,7 @@ class Loader {
             return;
         
         System.loadLibrary("Scanner");
-        System.loadLibrary("opencv_java3");
+        System.loadLibrary("opencv_java4");
         
         done = true;
     }

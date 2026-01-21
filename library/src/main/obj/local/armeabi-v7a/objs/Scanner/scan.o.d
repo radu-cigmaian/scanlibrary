@@ -1,716 +1,233 @@
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/obj/local/armeabi-v7a/objs/Scanner/scan.o: \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/jni/scan.cpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/jni/com_scanlibrary_ScanActivity.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/jni.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/cdefs.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/cdefs_elf.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/android/api-level.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stdarg.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cprolog.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/features.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/user_config.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/compat.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/host.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_system.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_android.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_epilog.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/android/log.h \
- sdk/native/jni/include/opencv2/opencv.hpp \
- sdk/native/jni/include/opencv2/core.hpp \
- sdk/native/jni/include/opencv2/core/cvdef.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/linux/limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/machine/internal_types.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/machine/limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/syslimits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm/page.h \
- sdk/native/jni/include/opencv2/core/hal/interface.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstddef \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_prolog.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstddef.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stddef.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/stdint.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/_types.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/machine/_types.h \
- sdk/native/jni/include/opencv2/core/version.hpp \
- sdk/native/jni/include/opencv2/core/base.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/climits \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/algorithm \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstdio.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stdio.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/stdio.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/types.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/linux/posix_types.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/linux/stddef.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/linux/compiler.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm/posix_types.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm/types.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/linux/types.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/machine/kernel.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/sysmacros.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algo.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algobase.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstring.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/string.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/string.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/malloc.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/using/cstring \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stdlib.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/stdlib.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/alloca.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/strings.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/memory.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cmath.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/math.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/math.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_pair.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/type_traits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/type_manips.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_move_construct_fwk.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iterator_base.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ptrs_specialize.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algobase.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_function_base.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iterator.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_heap.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_heap.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algo.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tempbuf.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_construct.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_new.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/new \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/exception \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/exception \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/gabixx_config.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tempbuf.c \
- sdk/native/jni/include/opencv2/core/cvstd.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstring \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cctype \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cctype.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/ctype.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/ctype.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/string \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_alloc.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_alloc.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_fwd.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iosfwd.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/char_traits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cwchar.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/cstddef \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/wchar.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/time.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/time.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/time.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/linux/time.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm/siginfo.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm-generic/siginfo.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/_wchar_limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_base.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_npos.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_operators.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ctraits_fns.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_function.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_function_adaptors.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_range_errors.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_hash.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_hash_fun.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_io.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ostream.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ios.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ios_base.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_stdexcept_base.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_exception.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_locale.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_threads.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/pthread.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/pthread.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/signal.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/signal.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm/signal.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm-generic/signal.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm/sigcontext.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sched.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_threads.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ctime.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ctype.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/c_locale.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_numpunct.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ios.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_streambuf.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_streambuf.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ostreambuf_iterator.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ostream.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_put.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iostream_string.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_put.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_limits.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cfloat \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/float.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_limits.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_istream.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_istreambuf_iterator.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_istream.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_get.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_get.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_io.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/utility \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstdlib \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cmath \
- sdk/native/jni/include/opencv2/core/ptr.inl.hpp \
- sdk/native/jni/include/opencv2/core/neon_utils.hpp \
- sdk/native/jni/include/opencv2/core/traits.hpp \
- sdk/native/jni/include/opencv2/core/matx.hpp \
- sdk/native/jni/include/opencv2/core/saturate.hpp \
- sdk/native/jni/include/opencv2/core/fast_math.hpp \
- sdk/native/jni/include/opencv2/core/types.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/vector \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_vector.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_vector.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_bvector.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_relops_cont.h \
- sdk/native/jni/include/opencv2/core/mat.hpp \
- sdk/native/jni/include/opencv2/core/bufferpool.hpp \
- sdk/native/jni/include/opencv2/core/mat.inl.hpp \
- sdk/native/jni/include/opencv2/core/persistence.hpp \
- sdk/native/jni/include/opencv2/core/operations.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstdio \
- sdk/native/jni/include/opencv2/core/cvstd.inl.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/complex \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_complex.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_complex.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_sstream.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_sstream.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/ostream \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ioserr.h \
- sdk/native/jni/include/opencv2/core/utility.hpp \
- sdk/native/jni/include/opencv2/core/core_c.h \
- sdk/native/jni/include/opencv2/core/types_c.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/assert.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/assert.h \
- sdk/native/jni/include/opencv2/core/optim.hpp \
- sdk/native/jni/include/opencv2/imgproc.hpp \
- sdk/native/jni/include/opencv2/imgproc/imgproc_c.h \
- sdk/native/jni/include/opencv2/imgproc/types_c.h \
- sdk/native/jni/include/opencv2/photo.hpp \
- sdk/native/jni/include/opencv2/photo/photo_c.h \
- sdk/native/jni/include/opencv2/video.hpp \
- sdk/native/jni/include/opencv2/video/tracking.hpp \
- sdk/native/jni/include/opencv2/video/background_segm.hpp \
- sdk/native/jni/include/opencv2/video/tracking_c.h \
- sdk/native/jni/include/opencv2/features2d.hpp \
- sdk/native/jni/include/opencv2/flann/miniflann.hpp \
- sdk/native/jni/include/opencv2/flann/defines.h \
- sdk/native/jni/include/opencv2/flann/config.h \
- sdk/native/jni/include/opencv2/objdetect.hpp \
- sdk/native/jni/include/opencv2/objdetect/detection_based_tracker.hpp \
- sdk/native/jni/include/opencv2/objdetect/objdetect_c.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/deque \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_deque.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_deque.c \
- sdk/native/jni/include/opencv2/calib3d.hpp \
- sdk/native/jni/include/opencv2/core/affine.hpp \
- sdk/native/jni/include/opencv2/calib3d/calib3d_c.h \
- sdk/native/jni/include/opencv2/imgcodecs.hpp \
- sdk/native/jni/include/opencv2/videoio.hpp \
- sdk/native/jni/include/opencv2/highgui.hpp \
- sdk/native/jni/include/opencv2/highgui/highgui_c.h \
- sdk/native/jni/include/opencv2/imgcodecs/imgcodecs_c.h \
- sdk/native/jni/include/opencv2/videoio/videoio_c.h \
- sdk/native/jni/include/opencv2/ml.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/map \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_map.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tree.h \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tree.c \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/iostream \
- sdk/native/jni/include/opencv2/core/core.hpp \
- /Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/android/bitmap.h
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/AndroidScannerDemo/ScanDemoExample/scanlibrary/src/main/jni/com_scanlibrary_ScanActivity.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/jni.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/cdefs.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/cdefs_elf.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/android/api-level.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stdarg.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cprolog.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/features.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_stlport_version.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/user_config.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/compat.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/host.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_system.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_android.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_gcc.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/stl_confix.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/config/_native_headers.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_epilog.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_config_compat_post.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/android/log.h:
-
-sdk/native/jni/include/opencv2/opencv.hpp:
-
-sdk/native/jni/include/opencv2/core.hpp:
-
-sdk/native/jni/include/opencv2/core/cvdef.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/limits.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/limits.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/limits.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/linux/limits.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/machine/internal_types.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/machine/limits.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/syslimits.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm/page.h:
-
-sdk/native/jni/include/opencv2/core/hal/interface.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstddef:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_prolog.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/debug/_debug.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstddef.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stddef.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/stdint.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/_types.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/machine/_types.h:
-
-sdk/native/jni/include/opencv2/core/version.hpp:
-
-sdk/native/jni/include/opencv2/core/base.hpp:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/climits:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/algorithm:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstdio.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stdio.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/stdio.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/types.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/linux/posix_types.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/linux/stddef.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/linux/compiler.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm/posix_types.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm/types.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/linux/types.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/machine/kernel.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/sysmacros.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algo.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algobase.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstring.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/string.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/string.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/malloc.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/using/cstring:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cstdlib.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stdlib.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/stdlib.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/alloca.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/strings.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/memory.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cmath.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/math.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/math.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_pair.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/type_traits.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/type_manips.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_move_construct_fwk.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iterator_base.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ptrs_specialize.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algobase.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_function_base.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iterator.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_heap.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_heap.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_algo.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tempbuf.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_uninitialized.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_construct.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_new.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/new:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/exception:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/exception:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/gabixx_config.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tempbuf.c:
-
-sdk/native/jni/include/opencv2/core/cvstd.hpp:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstring:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cctype:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cctype.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/ctype.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/ctype.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/string:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_alloc.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_alloc.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_fwd.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iosfwd.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/char_traits.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_cwchar.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/../../gabi++/include/cstddef:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/wchar.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/time.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/time.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/time.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/linux/time.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm/siginfo.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm-generic/siginfo.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sys/_wchar_limits.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_mbstate_t.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_base.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_npos.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_operators.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ctraits_fns.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_function.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_function_adaptors.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_range_errors.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_hash.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_hash_fun.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_io.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ostream.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ios.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ios_base.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_stdexcept_base.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_exception.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_locale.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_threads.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/pthread.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/pthread.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/signal.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/signal.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm/signal.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm-generic/signal.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/asm/sigcontext.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/sched.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_threads.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ctime.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_facets_fwd.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ctype.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/c_locale.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_numpunct.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ios.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_streambuf.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_streambuf.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ostreambuf_iterator.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ostream.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_put.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_iostream_string.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_put.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_limits.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cfloat:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/float.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_limits.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_istream.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_istreambuf_iterator.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_istream.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_get.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_num_get.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_string_io.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/utility:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstdlib:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cmath:
-
-sdk/native/jni/include/opencv2/core/ptr.inl.hpp:
-
-sdk/native/jni/include/opencv2/core/neon_utils.hpp:
-
-sdk/native/jni/include/opencv2/core/traits.hpp:
-
-sdk/native/jni/include/opencv2/core/matx.hpp:
-
-sdk/native/jni/include/opencv2/core/saturate.hpp:
-
-sdk/native/jni/include/opencv2/core/fast_math.hpp:
-
-sdk/native/jni/include/opencv2/core/types.hpp:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/vector:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_vector.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_vector.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_bvector.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_relops_cont.h:
-
-sdk/native/jni/include/opencv2/core/mat.hpp:
-
-sdk/native/jni/include/opencv2/core/bufferpool.hpp:
-
-sdk/native/jni/include/opencv2/core/mat.inl.hpp:
-
-sdk/native/jni/include/opencv2/core/persistence.hpp:
-
-sdk/native/jni/include/opencv2/core/operations.hpp:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/cstdio:
-
-sdk/native/jni/include/opencv2/core/cvstd.inl.hpp:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/complex:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_complex.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_complex.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_sstream.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_sstream.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/ostream:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_ioserr.h:
-
-sdk/native/jni/include/opencv2/core/utility.hpp:
-
-sdk/native/jni/include/opencv2/core/core_c.h:
-
-sdk/native/jni/include/opencv2/core/types_c.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/assert.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/../include/assert.h:
-
-sdk/native/jni/include/opencv2/core/optim.hpp:
-
-sdk/native/jni/include/opencv2/imgproc.hpp:
-
-sdk/native/jni/include/opencv2/imgproc/imgproc_c.h:
-
-sdk/native/jni/include/opencv2/imgproc/types_c.h:
-
-sdk/native/jni/include/opencv2/photo.hpp:
-
-sdk/native/jni/include/opencv2/photo/photo_c.h:
-
-sdk/native/jni/include/opencv2/video.hpp:
-
-sdk/native/jni/include/opencv2/video/tracking.hpp:
-
-sdk/native/jni/include/opencv2/video/background_segm.hpp:
-
-sdk/native/jni/include/opencv2/video/tracking_c.h:
-
-sdk/native/jni/include/opencv2/features2d.hpp:
-
-sdk/native/jni/include/opencv2/flann/miniflann.hpp:
-
-sdk/native/jni/include/opencv2/flann/defines.h:
-
-sdk/native/jni/include/opencv2/flann/config.h:
-
-sdk/native/jni/include/opencv2/objdetect.hpp:
-
-sdk/native/jni/include/opencv2/objdetect/detection_based_tracker.hpp:
-
-sdk/native/jni/include/opencv2/objdetect/objdetect_c.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/deque:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_deque.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_deque.c:
-
-sdk/native/jni/include/opencv2/calib3d.hpp:
-
-sdk/native/jni/include/opencv2/core/affine.hpp:
-
-sdk/native/jni/include/opencv2/calib3d/calib3d_c.h:
-
-sdk/native/jni/include/opencv2/imgcodecs.hpp:
-
-sdk/native/jni/include/opencv2/videoio.hpp:
-
-sdk/native/jni/include/opencv2/highgui.hpp:
-
-sdk/native/jni/include/opencv2/highgui/highgui_c.h:
-
-sdk/native/jni/include/opencv2/imgcodecs/imgcodecs_c.h:
-
-sdk/native/jni/include/opencv2/videoio/videoio_c.h:
-
-sdk/native/jni/include/opencv2/ml.hpp:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/map:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_map.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tree.h:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/stl/_tree.c:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/sources/cxx-stl/stlport/stlport/iostream:
-
-sdk/native/jni/include/opencv2/core/core.hpp:
-
-/Users/jhansi/softwares/adt-bundle-mac-x86_64-20130729/ndk/platforms/android-14/arch-arm/usr/include/android/bitmap.h:
+./obj/local/armeabi-v7a/objs/Scanner/scan.o: jni/scan.cpp \
+  jni/com_scanlibrary_ScanActivity.h \
+  jni/sdk/native/jni/include/opencv2/opencv.hpp \
+  jni/sdk/native/jni/include/opencv2/opencv_modules.hpp \
+  jni/sdk/native/jni/include/opencv2/core.hpp \
+  jni/sdk/native/jni/include/opencv2/core/cvdef.h \
+  jni/sdk/native/jni/include/opencv2/core/version.hpp \
+  jni/sdk/native/jni/include/opencv2/core/hal/interface.h \
+  jni/sdk/native/jni/include/opencv2/core/cv_cpu_dispatch.h \
+  jni/sdk/native/jni/include/opencv2/core/base.hpp \
+  jni/sdk/native/jni/include/opencv2/core/cvstd.hpp \
+  jni/sdk/native/jni/include/opencv2/core/cvstd_wrapper.hpp \
+  jni/sdk/native/jni/include/opencv2/core/neon_utils.hpp \
+  jni/sdk/native/jni/include/opencv2/core/vsx_utils.hpp \
+  jni/sdk/native/jni/include/opencv2/core/check.hpp \
+  jni/sdk/native/jni/include/opencv2/core/traits.hpp \
+  jni/sdk/native/jni/include/opencv2/core/matx.hpp \
+  jni/sdk/native/jni/include/opencv2/core/saturate.hpp \
+  jni/sdk/native/jni/include/opencv2/core/fast_math.hpp \
+  jni/sdk/native/jni/include/opencv2/core/matx.inl.hpp \
+  jni/sdk/native/jni/include/opencv2/core/types.hpp \
+  jni/sdk/native/jni/include/opencv2/core/mat.hpp \
+  jni/sdk/native/jni/include/opencv2/core/bufferpool.hpp \
+  jni/sdk/native/jni/include/opencv2/core/mat.inl.hpp \
+  jni/sdk/native/jni/include/opencv2/core/persistence.hpp \
+  jni/sdk/native/jni/include/opencv2/core/operations.hpp \
+  jni/sdk/native/jni/include/opencv2/core/cvstd.inl.hpp \
+  jni/sdk/native/jni/include/opencv2/core/utility.hpp \
+  jni/sdk/native/jni/include/opencv2/core/optim.hpp \
+  jni/sdk/native/jni/include/opencv2/core/ovx.hpp \
+  jni/sdk/native/jni/include/opencv2/calib3d.hpp \
+  jni/sdk/native/jni/include/opencv2/features2d.hpp \
+  jni/sdk/native/jni/include/opencv2/flann/miniflann.hpp \
+  jni/sdk/native/jni/include/opencv2/flann/defines.h \
+  jni/sdk/native/jni/include/opencv2/flann/config.h \
+  jni/sdk/native/jni/include/opencv2/core/affine.hpp \
+  jni/sdk/native/jni/include/opencv2/core/utils/logger.hpp \
+  jni/sdk/native/jni/include/opencv2/core/utils/logger.defines.hpp \
+  jni/sdk/native/jni/include/opencv2/core/utils/logtag.hpp \
+  jni/sdk/native/jni/include/opencv2/dnn.hpp \
+  jni/sdk/native/jni/include/opencv2/dnn/dnn.hpp \
+  jni/sdk/native/jni/include/opencv2/core/async.hpp \
+  jni/sdk/native/jni/include/opencv2/dnn/../dnn/version.hpp \
+  jni/sdk/native/jni/include/opencv2/dnn/dict.hpp \
+  jni/sdk/native/jni/include/opencv2/dnn/layer.hpp \
+  jni/sdk/native/jni/include/opencv2/dnn/dnn.inl.hpp \
+  jni/sdk/native/jni/include/opencv2/dnn/utils/inference_engine.hpp \
+  jni/sdk/native/jni/include/opencv2/dnn/utils/../dnn.hpp \
+  jni/sdk/native/jni/include/opencv2/flann.hpp \
+  jni/sdk/native/jni/include/opencv2/flann/flann_base.hpp \
+  jni/sdk/native/jni/include/opencv2/flann/general.h \
+  jni/sdk/native/jni/include/opencv2/flann/matrix.h \
+  jni/sdk/native/jni/include/opencv2/flann/params.h \
+  jni/sdk/native/jni/include/opencv2/flann/any.h \
+  jni/sdk/native/jni/include/opencv2/flann/saving.h \
+  jni/sdk/native/jni/include/opencv2/flann/nn_index.h \
+  jni/sdk/native/jni/include/opencv2/flann/result_set.h \
+  jni/sdk/native/jni/include/opencv2/flann/all_indices.h \
+  jni/sdk/native/jni/include/opencv2/flann/kdtree_index.h \
+  jni/sdk/native/jni/include/opencv2/flann/dynamic_bitset.h \
+  jni/sdk/native/jni/include/opencv2/flann/dist.h \
+  jni/sdk/native/jni/include/opencv2/flann/heap.h \
+  jni/sdk/native/jni/include/opencv2/flann/allocator.h \
+  jni/sdk/native/jni/include/opencv2/flann/random.h \
+  jni/sdk/native/jni/include/opencv2/flann/kdtree_single_index.h \
+  jni/sdk/native/jni/include/opencv2/flann/kmeans_index.h \
+  jni/sdk/native/jni/include/opencv2/flann/logger.h \
+  jni/sdk/native/jni/include/opencv2/flann/composite_index.h \
+  jni/sdk/native/jni/include/opencv2/flann/linear_index.h \
+  jni/sdk/native/jni/include/opencv2/flann/hierarchical_clustering_index.h \
+  jni/sdk/native/jni/include/opencv2/flann/lsh_index.h \
+  jni/sdk/native/jni/include/opencv2/flann/lsh_table.h \
+  jni/sdk/native/jni/include/opencv2/flann/autotuned_index.h \
+  jni/sdk/native/jni/include/opencv2/flann/ground_truth.h \
+  jni/sdk/native/jni/include/opencv2/flann/index_testing.h \
+  jni/sdk/native/jni/include/opencv2/flann/timer.h \
+  jni/sdk/native/jni/include/opencv2/flann/sampling.h \
+  jni/sdk/native/jni/include/opencv2/highgui.hpp \
+  jni/sdk/native/jni/include/opencv2/imgcodecs.hpp \
+  jni/sdk/native/jni/include/opencv2/videoio.hpp \
+  jni/sdk/native/jni/include/opencv2/imgproc.hpp \
+  jni/sdk/native/jni/include/opencv2/./imgproc/segmentation.hpp \
+  jni/sdk/native/jni/include/opencv2/ml.hpp \
+  jni/sdk/native/jni/include/opencv2/ml/ml.inl.hpp \
+  jni/sdk/native/jni/include/opencv2/objdetect.hpp \
+  jni/sdk/native/jni/include/opencv2/objdetect/aruco_detector.hpp \
+  jni/sdk/native/jni/include/opencv2/objdetect/aruco_dictionary.hpp \
+  jni/sdk/native/jni/include/opencv2/objdetect/aruco_board.hpp \
+  jni/sdk/native/jni/include/opencv2/objdetect/graphical_code_detector.hpp \
+  jni/sdk/native/jni/include/opencv2/objdetect/detection_based_tracker.hpp \
+  jni/sdk/native/jni/include/opencv2/objdetect/face.hpp \
+  jni/sdk/native/jni/include/opencv2/objdetect/charuco_detector.hpp \
+  jni/sdk/native/jni/include/opencv2/objdetect/barcode.hpp \
+  jni/sdk/native/jni/include/opencv2/photo.hpp \
+  jni/sdk/native/jni/include/opencv2/stitching.hpp \
+  jni/sdk/native/jni/include/opencv2/stitching/warpers.hpp \
+  jni/sdk/native/jni/include/opencv2/stitching/detail/warpers.hpp \
+  jni/sdk/native/jni/include/opencv2/core/cuda.hpp \
+  jni/sdk/native/jni/include/opencv2/core/cuda_types.hpp \
+  jni/sdk/native/jni/include/opencv2/core/cuda.inl.hpp \
+  jni/sdk/native/jni/include/opencv2/stitching/detail/warpers_inl.hpp \
+  jni/sdk/native/jni/include/opencv2/stitching/detail/matchers.hpp \
+  jni/sdk/native/jni/include/opencv2/stitching/detail/motion_estimators.hpp \
+  jni/sdk/native/jni/include/opencv2/stitching/detail/util.hpp \
+  jni/sdk/native/jni/include/opencv2/stitching/detail/util_inl.hpp \
+  jni/sdk/native/jni/include/opencv2/stitching/detail/camera.hpp \
+  jni/sdk/native/jni/include/opencv2/stitching/detail/exposure_compensate.hpp \
+  jni/sdk/native/jni/include/opencv2/stitching/detail/seam_finders.hpp \
+  jni/sdk/native/jni/include/opencv2/stitching/detail/blenders.hpp \
+  jni/sdk/native/jni/include/opencv2/video.hpp \
+  jni/sdk/native/jni/include/opencv2/video/tracking.hpp \
+  jni/sdk/native/jni/include/opencv2/video/background_segm.hpp \
+  jni/sdk/native/jni/include/opencv2/core/core.hpp \
+  jni/sdk/native/jni/include/opencv2/imgproc/imgproc_c.h \
+  jni/sdk/native/jni/include/opencv2/imgproc/types_c.h \
+  jni/sdk/native/jni/include/opencv2/core/core_c.h \
+  jni/sdk/native/jni/include/opencv2/core/types_c.h
+jni/com_scanlibrary_ScanActivity.h:
+jni/sdk/native/jni/include/opencv2/opencv.hpp:
+jni/sdk/native/jni/include/opencv2/opencv_modules.hpp:
+jni/sdk/native/jni/include/opencv2/core.hpp:
+jni/sdk/native/jni/include/opencv2/core/cvdef.h:
+jni/sdk/native/jni/include/opencv2/core/version.hpp:
+jni/sdk/native/jni/include/opencv2/core/hal/interface.h:
+jni/sdk/native/jni/include/opencv2/core/cv_cpu_dispatch.h:
+jni/sdk/native/jni/include/opencv2/core/base.hpp:
+jni/sdk/native/jni/include/opencv2/core/cvstd.hpp:
+jni/sdk/native/jni/include/opencv2/core/cvstd_wrapper.hpp:
+jni/sdk/native/jni/include/opencv2/core/neon_utils.hpp:
+jni/sdk/native/jni/include/opencv2/core/vsx_utils.hpp:
+jni/sdk/native/jni/include/opencv2/core/check.hpp:
+jni/sdk/native/jni/include/opencv2/core/traits.hpp:
+jni/sdk/native/jni/include/opencv2/core/matx.hpp:
+jni/sdk/native/jni/include/opencv2/core/saturate.hpp:
+jni/sdk/native/jni/include/opencv2/core/fast_math.hpp:
+jni/sdk/native/jni/include/opencv2/core/matx.inl.hpp:
+jni/sdk/native/jni/include/opencv2/core/types.hpp:
+jni/sdk/native/jni/include/opencv2/core/mat.hpp:
+jni/sdk/native/jni/include/opencv2/core/bufferpool.hpp:
+jni/sdk/native/jni/include/opencv2/core/mat.inl.hpp:
+jni/sdk/native/jni/include/opencv2/core/persistence.hpp:
+jni/sdk/native/jni/include/opencv2/core/operations.hpp:
+jni/sdk/native/jni/include/opencv2/core/cvstd.inl.hpp:
+jni/sdk/native/jni/include/opencv2/core/utility.hpp:
+jni/sdk/native/jni/include/opencv2/core/optim.hpp:
+jni/sdk/native/jni/include/opencv2/core/ovx.hpp:
+jni/sdk/native/jni/include/opencv2/calib3d.hpp:
+jni/sdk/native/jni/include/opencv2/features2d.hpp:
+jni/sdk/native/jni/include/opencv2/flann/miniflann.hpp:
+jni/sdk/native/jni/include/opencv2/flann/defines.h:
+jni/sdk/native/jni/include/opencv2/flann/config.h:
+jni/sdk/native/jni/include/opencv2/core/affine.hpp:
+jni/sdk/native/jni/include/opencv2/core/utils/logger.hpp:
+jni/sdk/native/jni/include/opencv2/core/utils/logger.defines.hpp:
+jni/sdk/native/jni/include/opencv2/core/utils/logtag.hpp:
+jni/sdk/native/jni/include/opencv2/dnn.hpp:
+jni/sdk/native/jni/include/opencv2/dnn/dnn.hpp:
+jni/sdk/native/jni/include/opencv2/core/async.hpp:
+jni/sdk/native/jni/include/opencv2/dnn/../dnn/version.hpp:
+jni/sdk/native/jni/include/opencv2/dnn/dict.hpp:
+jni/sdk/native/jni/include/opencv2/dnn/layer.hpp:
+jni/sdk/native/jni/include/opencv2/dnn/dnn.inl.hpp:
+jni/sdk/native/jni/include/opencv2/dnn/utils/inference_engine.hpp:
+jni/sdk/native/jni/include/opencv2/dnn/utils/../dnn.hpp:
+jni/sdk/native/jni/include/opencv2/flann.hpp:
+jni/sdk/native/jni/include/opencv2/flann/flann_base.hpp:
+jni/sdk/native/jni/include/opencv2/flann/general.h:
+jni/sdk/native/jni/include/opencv2/flann/matrix.h:
+jni/sdk/native/jni/include/opencv2/flann/params.h:
+jni/sdk/native/jni/include/opencv2/flann/any.h:
+jni/sdk/native/jni/include/opencv2/flann/saving.h:
+jni/sdk/native/jni/include/opencv2/flann/nn_index.h:
+jni/sdk/native/jni/include/opencv2/flann/result_set.h:
+jni/sdk/native/jni/include/opencv2/flann/all_indices.h:
+jni/sdk/native/jni/include/opencv2/flann/kdtree_index.h:
+jni/sdk/native/jni/include/opencv2/flann/dynamic_bitset.h:
+jni/sdk/native/jni/include/opencv2/flann/dist.h:
+jni/sdk/native/jni/include/opencv2/flann/heap.h:
+jni/sdk/native/jni/include/opencv2/flann/allocator.h:
+jni/sdk/native/jni/include/opencv2/flann/random.h:
+jni/sdk/native/jni/include/opencv2/flann/kdtree_single_index.h:
+jni/sdk/native/jni/include/opencv2/flann/kmeans_index.h:
+jni/sdk/native/jni/include/opencv2/flann/logger.h:
+jni/sdk/native/jni/include/opencv2/flann/composite_index.h:
+jni/sdk/native/jni/include/opencv2/flann/linear_index.h:
+jni/sdk/native/jni/include/opencv2/flann/hierarchical_clustering_index.h:
+jni/sdk/native/jni/include/opencv2/flann/lsh_index.h:
+jni/sdk/native/jni/include/opencv2/flann/lsh_table.h:
+jni/sdk/native/jni/include/opencv2/flann/autotuned_index.h:
+jni/sdk/native/jni/include/opencv2/flann/ground_truth.h:
+jni/sdk/native/jni/include/opencv2/flann/index_testing.h:
+jni/sdk/native/jni/include/opencv2/flann/timer.h:
+jni/sdk/native/jni/include/opencv2/flann/sampling.h:
+jni/sdk/native/jni/include/opencv2/highgui.hpp:
+jni/sdk/native/jni/include/opencv2/imgcodecs.hpp:
+jni/sdk/native/jni/include/opencv2/videoio.hpp:
+jni/sdk/native/jni/include/opencv2/imgproc.hpp:
+jni/sdk/native/jni/include/opencv2/./imgproc/segmentation.hpp:
+jni/sdk/native/jni/include/opencv2/ml.hpp:
+jni/sdk/native/jni/include/opencv2/ml/ml.inl.hpp:
+jni/sdk/native/jni/include/opencv2/objdetect.hpp:
+jni/sdk/native/jni/include/opencv2/objdetect/aruco_detector.hpp:
+jni/sdk/native/jni/include/opencv2/objdetect/aruco_dictionary.hpp:
+jni/sdk/native/jni/include/opencv2/objdetect/aruco_board.hpp:
+jni/sdk/native/jni/include/opencv2/objdetect/graphical_code_detector.hpp:
+jni/sdk/native/jni/include/opencv2/objdetect/detection_based_tracker.hpp:
+jni/sdk/native/jni/include/opencv2/objdetect/face.hpp:
+jni/sdk/native/jni/include/opencv2/objdetect/charuco_detector.hpp:
+jni/sdk/native/jni/include/opencv2/objdetect/barcode.hpp:
+jni/sdk/native/jni/include/opencv2/photo.hpp:
+jni/sdk/native/jni/include/opencv2/stitching.hpp:
+jni/sdk/native/jni/include/opencv2/stitching/warpers.hpp:
+jni/sdk/native/jni/include/opencv2/stitching/detail/warpers.hpp:
+jni/sdk/native/jni/include/opencv2/core/cuda.hpp:
+jni/sdk/native/jni/include/opencv2/core/cuda_types.hpp:
+jni/sdk/native/jni/include/opencv2/core/cuda.inl.hpp:
+jni/sdk/native/jni/include/opencv2/stitching/detail/warpers_inl.hpp:
+jni/sdk/native/jni/include/opencv2/stitching/detail/matchers.hpp:
+jni/sdk/native/jni/include/opencv2/stitching/detail/motion_estimators.hpp:
+jni/sdk/native/jni/include/opencv2/stitching/detail/util.hpp:
+jni/sdk/native/jni/include/opencv2/stitching/detail/util_inl.hpp:
+jni/sdk/native/jni/include/opencv2/stitching/detail/camera.hpp:
+jni/sdk/native/jni/include/opencv2/stitching/detail/exposure_compensate.hpp:
+jni/sdk/native/jni/include/opencv2/stitching/detail/seam_finders.hpp:
+jni/sdk/native/jni/include/opencv2/stitching/detail/blenders.hpp:
+jni/sdk/native/jni/include/opencv2/video.hpp:
+jni/sdk/native/jni/include/opencv2/video/tracking.hpp:
+jni/sdk/native/jni/include/opencv2/video/background_segm.hpp:
+jni/sdk/native/jni/include/opencv2/core/core.hpp:
+jni/sdk/native/jni/include/opencv2/imgproc/imgproc_c.h:
+jni/sdk/native/jni/include/opencv2/imgproc/types_c.h:
+jni/sdk/native/jni/include/opencv2/core/core_c.h:
+jni/sdk/native/jni/include/opencv2/core/types_c.h:
